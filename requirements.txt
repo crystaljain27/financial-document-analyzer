@@ -1,0 +1,26 @@
+# Core dependencies
+crewai>=0.130.0
+crewai-tools>=0.47.1
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.0
+
+# LangChain and OpenAI
+langchain-openai>=0.1.0
+langchain-community>=0.0.38
+langchain-core>=0.1.52
+openai>=1.30.0
+
+# PDF Processing
+pypdf>=4.2.0
+
+# Data Processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Pydantic
+pydantic>=2.4.2
+
+# Optional: For Google integrations (if needed)
+google-generativeai>=0.5.0
